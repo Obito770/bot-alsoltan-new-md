@@ -11,7 +11,7 @@ global.botnumber = ""
 global.confirmCode = ""
 
 global.owner = [
-  ['201277272498', 'YoUsSeF Al SoLtAn', true],
+  ['201144148194', 'YoUsSeF Al SoLtAn', true],
   ['201277272498','YoUsSeF Al SoLtAn', true]
 ];
 
